@@ -1,7 +1,7 @@
 {
   "name": "@rhazn/logic-components-react",
   "sideEffects": false,
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "description": "React specific wrapper for @rhazn/logic-components",
   "scripts": {
@@ -29,7 +29,7 @@
     "typescript": "^3.3.4000"
   },
   "dependencies": {
-    "@rhazn/logic-components": "0.0.3"
+    "@rhazn/logic-components": "0.0.4"
   },
   "jest": {
     "preset": "ts-jest",
