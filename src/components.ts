@@ -12,5 +12,5 @@ export const CreateSyntax = /*@__PURE__*/createReactComponent<JSX.CreateSyntax, 
 export const FormulaInput = /*@__PURE__*/createReactComponent<JSX.FormulaInput, HTMLFormulaInputElement>('formula-input');
 export const PropositionalWorldComponent = /*@__PURE__*/createReactComponent<JSX.PropositionalWorldComponent, HTMLPropositionalWorldComponentElement>('propositional-world-component');
 export const ShowSignature = /*@__PURE__*/createReactComponent<JSX.ShowSignature, HTMLShowSignatureElement>('show-signature');
-export const WorldPreference = /*@__PURE__*/createReactComponent<JSX.WorldPreference, HTMLWorldPreferenceElement>('world-preference');
+export const WorldPreferenceComponent = /*@__PURE__*/createReactComponent<JSX.WorldPreferenceComponent, HTMLWorldPreferenceComponentElement>('world-preference-component');
 export const WorldSelector = /*@__PURE__*/createReactComponent<JSX.WorldSelector, HTMLWorldSelectorElement>('world-selector');
