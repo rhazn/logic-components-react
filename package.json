@@ -1,7 +1,7 @@
 {
   "name": "@rhazn/logic-components-react",
   "sideEffects": false,
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": false,
   "repository": {
     "type": "git",
@@ -34,7 +34,7 @@
     "typescript": "^3.3.4000"
   },
   "dependencies": {
-    "@rhazn/logic-components": "0.2.0"
+    "@rhazn/logic-components": "0.3.0"
   },
   "jest": {
     "preset": "ts-jest",
